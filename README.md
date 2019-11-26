@@ -1,6 +1,6 @@
 # Analise_dados_idd_INEP_FATEC
 
-#Analise de dados sobre o Indicador de Diferença entre os Desempenhos Observado e Esperado (IDD).
+Analise de dados sobre o Indicador de Diferença entre os Desempenhos Observado e Esperado (IDD).
 
 
 # Analise proposta
