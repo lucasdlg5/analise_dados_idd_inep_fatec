@@ -2,7 +2,7 @@
 
 Análise de dados sobre o Indicador de Diferença entre os Desempenhos Observado e Esperado (IDD).<br>
 Trabalho realizado na matéria de Banco de Dados Não Estruturados ministrada pelo professor Fernando Masanori na faculdade FATEC.<br>
-O intuito desse trabalho é utilizar dados públicos disponibilizados para realizar análise de dados buscando indicadores. Esse trabalho será um exemplo utilizando um dataset disponibilizado pelo INEP.
+O intuito desse trabalho é utilizar dados públicos disponibilizados para realizar análise de dados buscando indicadores. Esse trabalho será um exemplo utilizando um dataset disponibilizado pelo INEP dos anos de 2009 a 2017.
 
 
 # Análise proposta
