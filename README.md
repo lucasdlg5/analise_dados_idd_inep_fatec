@@ -1,9 +1,11 @@
-# Analise_dados_idd_INEP_FATEC
+# Análise_dados_idd_INEP_FATEC
 
-Analise de dados sobre o Indicador de Diferença entre os Desempenhos Observado e Esperado (IDD).
+Análise de dados sobre o Indicador de Diferença entre os Desempenhos Observado e Esperado (IDD).<br>
+Trabalho realizado na matéria de Banco de Dados Não Estruturados ministrada pelo professor Fernando Masanori na faculdade FATEC.<br>
+O intuito desse trabalho é utilizar dados públicos disponibilizados para realizar análise de dados buscando indicadores. Esse trabalho será um exemplo utilizando um dataset disponibilizado pelo INEP.
 
 
-# Analise proposta
+# Análise proposta
 - Diferença de desempenho entre modalidade de ensino: EAD e Presencial.<br>
 - Comparação:
   - Nota prova Ciencias da Natureza;<br>
